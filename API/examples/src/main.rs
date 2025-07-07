@@ -1,3 +1,3 @@
 fn main() {
-    println!("¡Hola desde ejercicio A!");
+    println!("Hello world");
 }
